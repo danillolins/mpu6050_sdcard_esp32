@@ -2,6 +2,8 @@
 
 Projeto de um datalogger que consiste em aquisição de dados através do sensor MPU6050 (Acelerômetro e Giroscopio) e gravação dos dados em CSV em um cartão SD, utilizando o Microcontrolador ESP32.
 
+Para programação, foi utilizado o framework ESP-IDF
+
 ## Lista de dispositivos:
     
     -MPU6050: Giroscopio e Acelerometro
